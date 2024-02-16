@@ -1,16 +1,20 @@
-**Proposal**&#x20;
+# Proposal
 
-**Our role:** Data scientist consultancy firm
+### Our role
 
-**Target audience:**  Sales operation department in online retail company
+Data scientist consultancy firm
+
+### Target audience
+
+Sales operation department in online retail company
 
 In this dynamic and competitive retail market, understanding data plays an important role in strategic decision-making and optimizing operational efficiency. In order to dig into the potential customers and buying preferences, we propose to build a visualization dashboard of sales data. That includes sales performance with individual transactions, product analysis like most popular products based on quantity sold, and geographical analysis with buyer locations. Through this dashboard, our goal is to improve the sales operation department’s comprehension of market dynamics, customer behavior, and operational efficiency.
 
-**Description of the data:** 
+### Description of the data
 
 We will visualize a dataset of approximately 54,000 transnational data documented by an online retail company based in the UK. It holds rich transactional records from a renowned non-store online retail company known for selling unique all-occasion gifts. Each transaction has 7 associated variables that identify the transactions (‘InvoiceNo’ that are six-digit integral), five-digit stock code corresponding with specific items within the inventory system (‘StockCode’), details of products per transaction (product names: ‘Description’), the volume of each product (‘Quantity’), how much each unit retails at (‘UnitPrice’), the timestamps of each transaction were generated down (‘InvoiceDate’) and the location of each customer (‘Country’).
 
-**Research questions and usage scenarios:** 
+### Research questions and usage scenarios
 
 Emily is an e-commerce manager for an online retail company specializing in home and lifestyle products, focusing on online sales strategies and customer relationship management. She understands data visualization tools well but prefers intuitive interfaces that allow for quick insights without needing to write code. Emily aims to increase sales and improve customer retention by understanding customer preferences, identifying best-selling products, and optimizing inventory management. She is also interested in exploring new markets and customer segments to expand the business.
 
